@@ -1,0 +1,9 @@
+Etapas de Desarrollo de Software:
+
+1. Análisis.
+2. Diseño.
+3. Coding.
+4. Pruebas.
+5. Despliegue / Implementación
+6. Mantenimiento.
+7. Documentación.
